@@ -14,7 +14,10 @@
                         </div>
                     @endif
   
-                    You are Logged In
+                    <script>
+                        alert("You are Logged In");
+                    </script>
+                  <center> <B>  WELCOME DASHBOARD....</B></center>
                 </div>
             </div>
         </div>
